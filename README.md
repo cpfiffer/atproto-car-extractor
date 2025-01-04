@@ -3,6 +3,8 @@ ATProto CAR Extractor
 
 This is a small helper utility to download atproto repositories as CAR files, unpack contents to JSON files, and process multiple repositories in batch.
 
+Adapted from https://github.com/bluesky-social/cookbook/tree/main/go-repo-export
+
 ## Install
 
 You need the Go programming language toolchain installed: <https://go.dev/doc/install>
